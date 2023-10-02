@@ -1,4 +1,4 @@
-# Circular-Objects-Detection
+# Traffic-lights-detection
 
 ## The most important things- in 10 bullet points:
 
