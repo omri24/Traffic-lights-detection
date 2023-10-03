@@ -10,7 +10,7 @@
 
 4. The slower algorithm can be executed such that it processes first the objects that the preprocessing algorithm detects and the area around them, and only then it processes the rest of the image (if it’s necessary for the application). Therefore, using this preprocessing algorithm may reduce the time it takes to detect traffic lights.
 
-5. **The accuracy of the repository’s algorithm is 55.55%**.
+5. **The accuracy of the repository’s algorithm is 55.55%. It is important to read the “measures of accuracy” part in the PDF in order to understand the meaning of this number.**.
 
 6. The running time is much faster in comparison to any algorithm that uses CannyEdges or HoughCircles transform.
 
